@@ -1,6 +1,6 @@
 ### Hello World!
 
-Hello, my name is James Oswald! I am PhD student at Rensselaer Polytechnic Institute and graduate researcher with the The Rensselaer Artificial Intelligence and Reasoning (RAIR) Laboratory, under Professor Selmer Bringsjord. My primary research interest is in Artificial Intelligence (AI), particularly Artificial General Intelligence (AGI).
+Hello, my name is James Oswald! I am PhD student at [Rensselaer Polytechnic Institute](https://www.rpi.edu/) and graduate researcher with the [The Rensselaer Artificial Intelligence and Reasoning (RAIR) Laboratory](https://rair.cogsci.rpi.edu/), under Professor Selmer Bringsjord. My primary research interest is in Artificial Intelligence (AI), particularly logic first hybrid approaches to to AI through [automated theorem proving (ATP)](https://en.wikipedia.org/wiki/Automated_theorem_proving) and [automated planning](https://en.wikipedia.org/wiki/Automated_planning_and_scheduling), and Machine Learning.
 
 Checkout some of the Websites / Javascript Projects I've made or contributed to, hosted on Github Pages:
 * [jamesoswald.dev](https://jamesoswald.dev/): My personal website created with Hugo and WebGL ([repo](https://github.com/James-Oswald/jamesoswald.dev))
