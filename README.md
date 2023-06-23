@@ -10,5 +10,4 @@ Checkout some of the Websites / Javascript Projects I've made or contributed to,
 * [Anigraph](https://james-oswald.github.io/AniGraph/client/): A data visualization tool for MAL XML lists written in Javascript with Chart.js ([repo](https://github.com/James-Oswald/AniGraph))
 * [IEEE YT Thumbnail Generator](https://james-oswald.github.io/IEEE-YT-Thumbnail-Generator/): for the SUNY Albany IEEE Student Branch making use of HTML5 Canvas ([repo](https://github.com/James-Oswald/IEEE-YT-Thumbnail-Generator))
 * [RAIR Bingo](james-oswald.github.io/RAIR-Bingo/) and [Albany Impeachment Bingo](https://github.com/James-Oswald/Impeachment-Bingo) Simple bingo web app in JS ([repo](https://github.com/James-Oswald/Impeachment-Bingo))
-* 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=James-Oswald&size_weight=0&count_weight=1&hide=HTML&langs_count=10&layout=donut-vertical}
+
