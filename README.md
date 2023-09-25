@@ -9,5 +9,4 @@ Checkout some of the Websites / Javascript Projects I've made or contributed to,
 * [Fourier Transformation Visualizer](https://james-oswald.github.io/PI-Day-2018-Fourier-Transformation/): A js web app visualizing how the fourier transformation works ([repo](https://github.com/James-Oswald/PI-Day-2018-Fourier-Transformation))
 * [Anigraph](https://james-oswald.github.io/AniGraph/client/): A data visualization tool for MAL XML lists written in Javascript with Chart.js ([repo](https://github.com/James-Oswald/AniGraph))
 * [IEEE YT Thumbnail Generator](https://james-oswald.github.io/IEEE-YT-Thumbnail-Generator/): for the SUNY Albany IEEE Student Branch making use of HTML5 Canvas ([repo](https://github.com/James-Oswald/IEEE-YT-Thumbnail-Generator))
-* [RAIR Bingo](james-oswald.github.io/RAIR-Bingo/) and [Albany Impeachment Bingo](https://github.com/James-Oswald/Impeachment-Bingo) Simple bingo web app in JS ([repo](https://github.com/James-Oswald/Impeachment-Bingo))
-
+* [RAIR Bingo](https://james-oswald.github.io/RAIR-Bingo/) and [Albany Impeachment Bingo](https://james-oswald.github.io/Impeachment-Bingo/) Simple bingo web app in JS ([repo](https://github.com/James-Oswald/Impeachment-Bingo))
